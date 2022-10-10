@@ -26,8 +26,25 @@ A CRUD PROJECT BASED ON FLUTTER
   <img src="https://user-images.githubusercontent.com/38869235/194891715-a74c59c6-4d40-4c91-8fe3-51226a9a3839.png" width="500" height="200">
 
 </ul>
+<h2> 2. Install the file picker from the link: <a href= "https://pub.dev/packages/file_picker"> File Picker Package </a> <h2>
+<h2> 3. Give or Allow Permission for read and Write   </a> </h2>
+<ul>
+  <li><h3> 1. app/src/debug/AndroidManifest.xml </h3> </li>
+  <img src="https://user-images.githubusercontent.com/38869235/194903326-44169d57-73ce-4306-92ca-498a0bb29d32.png" width="1000" height="200">
+  <li><h3> 2. app/src/main/AndroidManifest.xml </h3> </li>
+  <img src="https://user-images.githubusercontent.com/38869235/194903801-03d81837-91ea-4938-8589-81c39b637f7b.png" width="1000" height="200">
+  <li><h3> 2. app/src/profile/AndroidManifest.xml </h3> </li>
+  <img src="https://user-images.githubusercontent.com/38869235/194904705-1246bb09-e376-4bcc-aa4c-a4cc6318ad4b.png" width="1000" height="200">
 
-<h2>2. Then we can now the commands: A. flutter clean , B. flutter pubget , C. flutter run  </h2>
+</ul>
+ <h2> 4. File Picker Use Case   </a> </h2>
+  <ul>
+    <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1"> A Simple File Picker Use Case </h3> </li>
+  </ul>
+
+
   
-<h2> 3. Install the file picker from the link: <a href= "https://pub.dev/packages/file_picker"> File Picker Package </a> <h2>
+<h2>5. Then we can now the commands: A. flutter clean , B. flutter pubget , C. flutter run (Better run in Android Mobile Device making USB debug on) </h2>
+  
+
 <ul>
