@@ -42,10 +42,18 @@ A CRUD PROJECT BASED ON FLUTTER
     <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master"> A Simple File Picker Use Case </h3> </li>
     <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master2"> Storing an Image file in FireStore Storage of Firebase using File Picker </h3> </li>
   </ul>
-
-
   
 <h2>5. Then we can now the commands: A. flutter clean , B. flutter pubget , C. flutter run (Better run in Android Mobile Device making USB debug on) </h2>
+<h2> 6. The permission / Rules of FireStore will be: </h2>
+  <ul>
+    <img src="https://user-images.githubusercontent.com/38869235/194953481-ca453b4a-f1ee-4507-ad86-cab0acde9f0b.png" width="1000" height="500">
+    <h3><i>Note : As Authorized Person only can upload the pictures </i></h3>
+    
+    
+
+  </ul>
+  
+  
   
 
 <ul>
