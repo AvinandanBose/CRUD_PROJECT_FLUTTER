@@ -2,8 +2,9 @@
 A CRUD PROJECT BASED ON FLUTTER
 
 <h1> A.FILE PICKER WIDGET </h1>
+<ul>
 <h3><i><ins> Note: File Picker will not work  if Android SDK is not v33 </ins> </i><h3>
-<h1>1. Android SDK problem</h1>
+<h2>1. Android SDK problem</h2>
 <ul>
   <li><h3>1.Go to Flutter SDK extracted location Eg: C:/flutter </h3> </li>
   <img src="https://user-images.githubusercontent.com/38869235/182935505-dd00508a-bc06-4f9b-86f1-2e584174450a.png" width="500" height="200">
@@ -26,3 +27,7 @@ A CRUD PROJECT BASED ON FLUTTER
 
 </ul>
 
+<h2>2. Then we can now the commands: A. flutter clean , B. flutter pubget , C. flutter run  </h2>
+  
+<h2> 3. Install the file picker from the link: <a href= "https://pub.dev/packages/file_picker"> File Picker Package </a> <h2>
+<ul>
