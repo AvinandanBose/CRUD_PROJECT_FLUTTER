@@ -60,6 +60,7 @@ A CRUD PROJECT BASED ON FLUTTER
   <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master5"> An UseCase of Creation of Table in Flutter.</h3> </li>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master6">Fetching Data From Firebase to Table.</h3> </li>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master7">Delete Query to Delete Data From Firebase And Table Simultaneously.</h3> </li>
   </ul>
  
 </ul>
