@@ -59,6 +59,7 @@ A CRUD PROJECT BASED ON FLUTTER
   <h2>8. Table . </h2>
   <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master5"> An UseCase of Creation of Table in Flutter.</h3> </li>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master6">Fetching Data From Firebase to Table.</h3> </li>
   </ul>
  
 </ul>
