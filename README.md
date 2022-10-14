@@ -62,5 +62,10 @@ A CRUD PROJECT BASED ON FLUTTER
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master6">Fetching Data From Firebase to Table.</h3> </li>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master7">Delete Query to Delete Data From Firebase And Table Simultaneously.</h3> </li>
   </ul>
+  <h2>9. CheckBoxes . </h2>
+  <ul>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master7"> An UseCase of CheckBox in Flutter in Flutter.</h3> </li>
+  </li>
+  </ul>
  
 </ul>
