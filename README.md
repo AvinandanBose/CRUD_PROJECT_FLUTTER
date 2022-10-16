@@ -66,6 +66,7 @@ A CRUD PROJECT BASED ON FLUTTER
   <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master8"> An UseCase of CheckBox in Flutter in Flutter.</h3> </li>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master9"> Inserting Data using CheckBox into Firebase .</h3> </li>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master10"> Fetching and Displaying the Inserted Data using CheckBox , Firebase and Flutter .</h3> </li>
   </ul>
  
 </ul>
