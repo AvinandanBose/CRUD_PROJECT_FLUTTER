@@ -71,6 +71,7 @@ A CRUD PROJECT BASED ON FLUTTER
   <h2>10. Data Table . </h2>
   <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master11"> An UseCase of Data Table in Flutter.</h3> </li>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master12"> An UseCase of Using List of Map in Data Table in Flutter.</h3> </li>
   </ul>
  
 </ul>
