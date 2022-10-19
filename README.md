@@ -93,7 +93,7 @@ A CRUD PROJECT BASED ON FLUTTER
  
 </ul>
 
-<h2> B.CRUD PROJECT (With Table Widget) </h2>
+<h1> B.CRUD PROJECT (With Table Widget) </h1>
   <ul>
     <h3> 1. Parts Of the Project </h3>
      <h3> 2. Final Build </h3>
