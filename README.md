@@ -96,5 +96,8 @@ A CRUD PROJECT BASED ON FLUTTER
 <h1> B.CRUD PROJECT (With Table Widget) </h1>
   <ul>
     <h3> 1. Parts Of the Project </h3>
+    <ul>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master21"> 1.  Building the Student Details Screen.</a></h3> </li>
+  </ul>
      <h3> 2. Final Build </h3>
   </ul>
