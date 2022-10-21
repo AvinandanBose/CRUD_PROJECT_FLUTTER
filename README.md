@@ -101,5 +101,5 @@ A CRUD PROJECT BASED ON FLUTTER
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master22"> 2. INSERTING DATA INTO FIREBASE.</a></h3> </li>
   </ul>
 
-     <h3> 2. Final Build </h3>
+ <h3> 2. Final Build </h3>
   </ul>
