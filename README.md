@@ -100,6 +100,7 @@ A CRUD PROJECT BASED ON FLUTTER
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master21"> 1.  Building the Student Details Screen.</a></h3> </li>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master22"> 2. INSERTING DATA INTO FIREBASE(With Snackbar Message).</a></h3> </li>
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master23"> 3. Viewing Saved FireBase Data As A TABLE and Fetching Data Individually.</a></h3> </li>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master24"> 4. Edit Individual's Data and Update the Field in Database .</a></h3> </li>
   </ul>
 
  <h3> 2. Final Build </h3>
