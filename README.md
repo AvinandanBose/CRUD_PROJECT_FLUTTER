@@ -105,6 +105,9 @@ A CRUD PROJECT BASED ON FLUTTER
   <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master26"> 6. Update Profile Pic .</a></h3> </li>
   </ul>
 <h3> 2. Final Build </h3>
+<ul>
+<li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master27"> Final BuildCRUD PROJECT (With Table Widget) .</a></h3> </li>
+</ul>
   </ul>
 
  
