@@ -110,6 +110,17 @@ A CRUD PROJECT BASED ON FLUTTER
 </ul>
   </ul>
 <h1> C.CRUD PROJECT (With Data Table Widget) </h1>
+<ul>
+    <h3> 1. Parts Of the Project </h3>
+    <ul>
+  <li><h3> <a href="https://github.com/AvinandanBose/firebasefirestoreproj1/tree/master28"> 1.  Building the Data Table.</a></h3> </li>
+  
+  </ul>
+<h3> 2. Final Build </h3>
+<ul>
+<li><h3> <a href="">  .</a></h3> </li>
+</ul>
+  </ul>
 
  
   </ul>
